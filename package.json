@@ -1,0 +1,19 @@
+{
+  "name": "javascript_benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start:arrays_vs_objects": "node ./arrays_vs_objects"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
